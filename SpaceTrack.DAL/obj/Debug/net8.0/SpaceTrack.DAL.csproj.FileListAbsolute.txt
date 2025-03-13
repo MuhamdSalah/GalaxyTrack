@@ -1,0 +1,13 @@
+G:\Test\SpaceTrack\SpaceTrack.DAL\bin\Debug\net8.0\SpaceTrack.DAL.deps.json
+G:\Test\SpaceTrack\SpaceTrack.DAL\bin\Debug\net8.0\SpaceTrack.DAL.dll
+G:\Test\SpaceTrack\SpaceTrack.DAL\bin\Debug\net8.0\SpaceTrack.DAL.pdb
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\SpaceTrack.DAL.csproj.AssemblyReference.cache
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\SpaceTrack.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\SpaceTrack.DAL.AssemblyInfoInputs.cache
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\SpaceTrack.DAL.AssemblyInfo.cs
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\SpaceTrack.DAL.csproj.CoreCompileInputs.cache
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\SpaceTrack.DAL.sourcelink.json
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\SpaceTrack.DAL.dll
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\refint\SpaceTrack.DAL.dll
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\SpaceTrack.DAL.pdb
+G:\Test\SpaceTrack\SpaceTrack.DAL\obj\Debug\net8.0\ref\SpaceTrack.DAL.dll
