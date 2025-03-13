@@ -1,0 +1,16 @@
+G:\Test\SpaceTrack\SpaceTrack.Services\bin\Debug\net8.0\SpaceTrack.Services.deps.json
+G:\Test\SpaceTrack\SpaceTrack.Services\bin\Debug\net8.0\SpaceTrack.Services.dll
+G:\Test\SpaceTrack\SpaceTrack.Services\bin\Debug\net8.0\SpaceTrack.Services.pdb
+G:\Test\SpaceTrack\SpaceTrack.Services\bin\Debug\net8.0\SpaceTrack.DAL.dll
+G:\Test\SpaceTrack\SpaceTrack.Services\bin\Debug\net8.0\SpaceTrack.DAL.pdb
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\SpaceTrack.Services.csproj.AssemblyReference.cache
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\SpaceTrack.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\SpaceTrack.Services.AssemblyInfoInputs.cache
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\SpaceTrack.Services.AssemblyInfo.cs
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\SpaceTrack.Services.csproj.CoreCompileInputs.cache
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\SpaceTrack.Services.sourcelink.json
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\SpaceTra.330BD76D.Up2Date
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\SpaceTrack.Services.dll
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\refint\SpaceTrack.Services.dll
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\SpaceTrack.Services.pdb
+G:\Test\SpaceTrack\SpaceTrack.Services\obj\Debug\net8.0\ref\SpaceTrack.Services.dll
